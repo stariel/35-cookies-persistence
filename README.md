@@ -23,7 +23,7 @@
 * Create a frontend that follows react/redux best practices
 * Create a landing page that enables a user to signup or login 
 * Redirect the user to the dashboard page on signup or login 
-* Store the users token in a cookie or localstorage on sign in 
+* Store the users token in a cookie ***or*** localstorage on sign in 
 
 #### Test
 * Test your redux reducers 
